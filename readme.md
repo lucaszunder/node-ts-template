@@ -54,13 +54,9 @@ This template was built with these technologies:
 
 ### Step 1
 
-- **Option 1**
+- Fork this repo!
 
-  - Fork this repo!
-
-- **Option 2**
-
-  - Clone this repo to your local machine using `[lucaszunder/node-ts-template  ``git clone https://github.com/lucaszunder/node-ts-template.git`
+- Clone this repo to your local machine using `[lucaszunder/node-ts-template  ``git clone https://github.com/lucaszunder/node-ts-template.git`
 
 ### Step 2
 
